@@ -25,7 +25,9 @@ dist-ssr
 
 data/
 .env
+up.sh
 package.json
 package-lock.json
 ws_index.js
 services/
+ws_routes/
