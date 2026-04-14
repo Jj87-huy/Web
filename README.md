@@ -1,4 +1,4 @@
-# Website
+# Web
 
 A Node.js + Express web application that implements a basic authentication system with CSRF protection and filesystem-based user storage.
 
